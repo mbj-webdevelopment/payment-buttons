@@ -1,4 +1,4 @@
-﻿=== PayPal Payment Buttons ===
+﻿=== Payment Buttons ===
 Contributors: mbj-webdevelopment
 Tags: PayPal, PayPal Button, Buy Now Button, Add to Cart Button, Subscribe Button
 Requires at least: 3.8

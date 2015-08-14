@@ -1,4 +1,4 @@
-# PayPal Payment Buttons #
+# Payment Buttons #
 Easy PayPal Payment Buttons
 
 ## Installation ##
